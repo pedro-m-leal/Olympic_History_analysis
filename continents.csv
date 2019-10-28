@@ -1,0 +1,278 @@
+official_name_en,NOC,Continent
+,TPE,AS
+Afghanistan,AFG,AS
+Albania,ALB,EU
+Algeria,ALG,AF
+American Samoa,ASA,OC
+Andorra,AND,EU
+Angola,ANG,AF
+Anguilla,AIA,NAm
+Antarctica,,AN
+Antigua and Barbuda,ANT,NAm
+Argentina,ARG,SA
+Armenia,ARM,AS
+Aruba,ARU,NAm
+Australia,AUS,OC
+Austria,AUT,EU
+Azerbaijan,AZE,AS
+Bahamas,BAH,NAm
+Bahrain,BRN,AS
+Bangladesh,BAN,AS
+Barbados,BAR,NAm
+Belarus,BLR,EU
+Belgium,BEL,EU
+Belize,BIZ,NAm
+Benin,BEN,AF
+Bermuda,BER,NAm
+Bhutan,BHU,AS
+Bolivia (Plurinational State of),BOL,SA
+"Bonaire, Sint Eustatius and Saba",AHO,NAm
+Bosnia and Herzegovina,BIH,EU
+Botswana,BOT,AF
+Bouvet Island,,AN
+Brazil,BRA,SA
+British Indian Ocean Territory,,AS
+British Virgin Islands,IVB,NAm
+Brunei Darussalam,BRU,AS
+Bulgaria,BUL,EU
+Burkina Faso,BUR,AF
+Burundi,BDI,AF
+Cabo Verde,CPV,AF
+Cambodia,CAM,AS
+Cameroon,CMR,AF
+Canada,CAN,NAm
+Cayman Islands,CAY,NAm
+Central African Republic,CAF,AF
+Chad,CHA,AF
+Chile,CHI,SA
+China,CHN,AS
+"China, Hong Kong Special Administrative Region",HKG,AS
+"China, Macao Special Administrative Region",MAC,AS
+Christmas Island,,AS
+Cocos (Keeling) Islands,,AS
+Colombia,COL,SA
+Comoros,COM,AF
+Congo,CGO,AF
+Cook Islands,COK,OC
+Costa Rica,CRC,NAm
+Croatia,CRO,EU
+Cuba,CUB,NAm
+Curaçao,,NAm
+Cyprus,CYP,EU
+Czechia,CZE,EU
+Côte d'Ivoire,CIV,AF
+Democratic People's Republic of Korea,PRK,AS
+Democratic Republic of the Congo,COD,AF
+Denmark,DEN,EU
+Djibouti,DJI,AF
+Dominica,DMA,NAm
+Dominican Republic,DOM,NAm
+Ecuador,ECU,SA
+Egypt,EGY,AF
+El Salvador,ESA,NAm
+Equatorial Guinea,GEQ,AF
+Eritrea,ERI,AF
+Estonia,EST,EU
+Ethiopia,ETH,AF
+Falkland Islands (Malvinas),FLK,SA
+Faroe Islands,FAR,EU
+Fiji,FIJ,OC
+Finland,FIN,EU
+France,FRA,EU
+French Guiana,FGU,SA
+French Polynesia,FPO,OC
+French Southern Territories,,AN
+Gabon,GAB,AF
+Gambia,GAM,AF
+Georgia,GEO,AS
+Germany,GER,EU
+Ghana,GHA,AF
+Gibraltar,GIB,EU
+Greece,GRE,EU
+Greenland,GRL,NAm
+Grenada,GRN,NAm
+Guadeloupe,GUD,NAm
+Guam,GUM,OC
+Guatemala,GUA,NAm
+Guernsey,,EU
+Guinea,GUI,AF
+Guinea-Bissau,GBS,AF
+Guyana,GUY,SA
+Haiti,HAI,NAm
+Heard Island and McDonald Islands,,AN
+Holy See,,EU
+Honduras,HON,NAm
+Hungary,HUN,EU
+Iceland,ISL,EU
+India,IND,AS
+Indonesia,INA,AS
+Iran (Islamic Republic of),IRI,AS
+Iraq,IRQ,AS
+Ireland,IRL,EU
+Isle of Man,,EU
+Israel,ISR,AS
+Italy,ITA,EU
+Jamaica,JAM,NAm
+Japan,JPN,AS
+Jersey,,EU
+Jordan,JOR,AS
+Kazakhstan,KAZ,AS
+Kenya,KEN,AF
+Kiribati,KIR,OC
+Kuwait,KUW,AS
+Kyrgyzstan,KGZ,AS
+Lao People's Democratic Republic,LAO,AS
+Latvia,LAT,EU
+Lebanon,LIB,AS
+Lesotho,LES,AF
+Liberia,LBR,AF
+Libya,LBA,AF
+Liechtenstein,LIE,EU
+Lithuania,LTU,EU
+Luxembourg,LUX,EU
+Madagascar,MAD,AF
+Malawi,MAW,AF
+Malaysia,MAS,AS
+Maldives,MDV,AS
+Mali,MLI,AF
+Malta,MLT,EU
+Marshall Islands,MSH,OC
+Martinique,MRT,NAm
+Mauritania,MTN,AF
+Mauritius,MRI,AF
+Mayotte,MAY,AF
+Mexico,MEX,NAm
+Micronesia (Federated States of),FSM,OC
+Monaco,MON,EU
+Mongolia,MGL,AS
+Montenegro,MGO,EU
+Montserrat,MNT,NAm
+Morocco,MAR,AF
+Mozambique,MOZ,AF
+Myanmar,MYA,AS
+Namibia,NAM,AF
+Nauru,NRU,OC
+Nepal,NEP,AS
+Netherlands,NED,EU
+New Caledonia,NCD,OC
+New Zealand,NZL,OC
+Nicaragua,NCA,NAm
+Niger,NIG,AF
+Nigeria,NGR,AF
+Niue,NIU,OC
+Norfolk Island,NFI,OC
+Northern Mariana Islands,NMA,OC
+Norway,NOR,EU
+Oman,OMA,AS
+Pakistan,PAK,AS
+Palau,PLW,OC
+Panama,PAN,NAm
+Papua New Guinea,PNG,OC
+Paraguay,PAR,SA
+Peru,PER,SA
+Philippines,PHI,AS
+Pitcairn,,OC
+Poland,POL,EU
+Portugal,POR,EU
+Puerto Rico,PUR,NAm
+Qatar,QAT,AS
+Republic of Korea,KOR,AS
+Republic of Moldova,MDA,EU
+Romania,ROU,EU
+Russian Federation,RUS,EU
+Rwanda,RWA,AF
+Réunion,REU,AF
+Saint Barthélemy,,NAm
+Saint Helena,HEL,AF
+Saint Kitts and Nevis,SKN,NAm
+Saint Lucia,LCA,NAm
+Saint Martin (French Part),,NAm
+Saint Pierre and Miquelon,SPM,NAm
+Saint Vincent and the Grenadines,VIN,NAm
+Samoa,SAM,OC
+San Marino,SMR,EU
+Sao Tome and Principe,STP,AF
+Sark,,NAm
+Saudi Arabia,KSA,AS
+Senegal,SEN,AF
+Serbia,SRB,EU
+Seychelles,SEY,AF
+Sierra Leone,SLE,AF
+Singapore,SIN,AS
+Sint Maarten (Dutch part),,NAm
+Slovakia,SVK,EU
+Slovenia,SLO,EU
+Solomon Islands,SOL,OC
+Somalia,SOM,AF
+South Africa,RSA,AF
+South Georgia and the South Sandwich Islands,,AN
+South Sudan,,AF
+Spain,ESP,EU
+Sri Lanka,SRI,AS
+State of Palestine,PLE,AS
+Sudan,SUD,AF
+Suriname,SUR,SA
+Svalbard and Jan Mayen Islands,,EU
+Swaziland,SWZ,AF
+Sweden,SWE,EU
+Switzerland,SUI,EU
+Syrian Arab Republic,SYR,AS
+Tajikistan,TJK,AS
+Thailand,THA,AS
+The former Yugoslav Republic of Macedonia,MKD,EU
+Timor-Leste,TLS,OC
+Togo,TOG,AF
+Tokelau,,OC
+Tonga,TGA,OC
+Trinidad and Tobago,TTO,NAm
+Tunisia,TUN,AF
+Turkey,TUR,AS
+Turkmenistan,TKM,AS
+Turks and Caicos Islands,TKS,NAm
+Tuvalu,TUV,OC
+Uganda,UGA,AF
+Ukraine,UKR,EU
+United Arab Emirates,UAE,AS
+United Kingdom of Great Britain and Northern Ireland,GBR,EU
+United Republic of Tanzania,TAN,AF
+United States Minor Outlying Islands,,OC
+United States Virgin Islands,ISV,NAm
+United States of America,USA,NAm
+Uruguay,URU,SA
+Uzbekistan,UZB,AS
+Vanuatu,VAN,OC
+Venezuela (Bolivarian Republic of),VEN,SA
+Viet Nam,VIE,AS
+Wallis and Futuna Islands,WAF,OC
+Western Sahara,,AF
+Yemen,YEM,AS
+Zambia,ZAM,AF
+Zimbabwe,ZIM,AF
+Åland Islands,,EU
+Malaysia,MAL,AS
+Marshall Islands,MHL,OC
+Russia,URS,EU
+Trinidad (West Indies Federation),WIF,NAm
+Bohemia (Czech Republic),BOH,EU
+(South) Yemen,YMD,AS
+Germany (Saar protectorate),SAA,EU
+(North) Yemen,YAR,AS
+Zimbabwe (Rhodesia),RHO,AF
+Australasia,ANZ,OC
+Unknown,UNK,UNK
+Czechoslovakia,TCH,EU
+West Germany,FRG,EU
+Yugoslavia,YUG,EU
+Crete (Greece),CRT,EU
+South Sudan,SSD,AF
+Montenegro,MNE,EU
+North Borneo (Malaysia),NBO,AS
+Newfoundland (Canada),NFL,NAm
+Kosovo,KOS,EU
+Serbia and Montenegro,SCG,EU
+Individual Olympic Athletes,IOA,Multi
+Unified Team (Russia),EUN,EU
+Refugee Olympic Team,ROT,Multi
+East Germany,GDR,EU
+United Arab Republic (Syria/Egypt),UAR,AS
+Vietnam,VNM,AS
